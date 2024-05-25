@@ -48,13 +48,16 @@ label start:
     show eileen at left with dissolve
     pause
 
-    teacher "Hello there! How are you today?"
+    teacher "Hi [bertram]. Did you rest well?"
 
     show bertram at right with dissolve
+    pause
 
-    bertram "I'm good, thank you! And you?"
-    teacher "I'm doing well, thanks for asking."
-    bertram "Alright, let's get back to the main menu."
+    bertram "Oh yes, thank you! And you?"
+    teacher "Same, thanks for asking."
+    extend "Let's continue the exercise!"
+
+    bertram "Alright, let's get going..."
 
     window hide
     pause
